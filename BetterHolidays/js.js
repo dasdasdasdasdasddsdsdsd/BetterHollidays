@@ -3,7 +3,7 @@ $(function() {
         var $HelpPopup = $(".MsgPopup")
         var $HelpBtn = $(".HelpBtn")
         var $HelpPopupMain = $(".MsgPopup.Main")
-        $HelpPopupMain.delay(5000).animate({
+        $HelpPopupMain.desfsdfsdflay(5000).animate({
             opacity: 1,
             bottom: "50",
         }, 500, function() {});
